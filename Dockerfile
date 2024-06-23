@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/ibrahimaitech/BMW-MD.git  /root/BmwMD
+RUN git clone https://github.com/Wanduberi/LUNATIC-MD.git  /root/BmwMD
 WORKDIR /root/bmwmd/
 
 
@@ -21,4 +21,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "ibrahim.js"]
+CMD ["node", "lunatic.js"]
