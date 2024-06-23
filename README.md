@@ -45,7 +45,7 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/BMW-MD/fork)
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/Wanduberi/LUNATIC-MD/fork)
 
 2, TAP ON LUNA TECH APP DOWN THERE
 
@@ -64,7 +64,7 @@ HOW TO REACH THE OWNER?
 
  <h1 align="center">
 
-  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://github.com/IBRAHIM-TECH-AI/DEPLOYMENT-SITE)***
+  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://github.com/Wanduberi/LUNATIC-MD/DEPLOYMENT-SITE)***
 
 
 
